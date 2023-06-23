@@ -1,5 +1,10 @@
 # ML_Assignment2
-Sravya Chevutukur
-ID:70075406
-Source code link: http://localhost:8890/notebooks/Assignment2.ipynb
-Video link:https://drive.google.com/file/d/1kAGCVwZM1SIhGBc3XFuowDVm2nI5-Dy2/view?usp=sharing
+
+700754026
+
+sxc40260
+
+Sravya Reddy Chevutukur
+
+https://drive.google.com/drive/folders/1uTxwx7xIkWPoP1rmc70wDQ6JoZ2tcq4S?usp=drive_link
+
